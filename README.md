@@ -1,5 +1,7 @@
 # lexicap-summary
-Summarize transcribed Lex Fridman podcast
+Summarize [transcribed Lex Fridman podcast](https://karpathy.ai/lexicap/index.html).
+
+__Note__: This is just a hack, proper summarization would require to split the source transcript by speaker, and then aggregate properly instead of doing a summary of summary.
 
 Dependencies:
 ```bash
